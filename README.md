@@ -1,5 +1,5 @@
 # Playblast-QuadView-Blender
-Super fast preview and video animation addon without rendering, capturing exactly what's happening in the viewport, in normal mode or 4 layouts. Playblast for Blender.
+Super fast preview and video animation addon without rendering, capturing exactly what's happening in the viewport, in normal mode or 4 layouts. Playblast for Blender 4.3+
 
 Demo video: https://www.youtube.com/watch?v=gMovp9Ar8N4&t=1s
 
